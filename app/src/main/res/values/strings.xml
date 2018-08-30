@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EjemploGridViewKt</string>
+
+    <string name="nombre_fruta">Nombre de la fruta</string>
 </resources>
